@@ -59,5 +59,8 @@ img:hover {
 .col-3 {
   width: 33.33%;
 }
+*, *:before, *:after {
+  box-sizing: border-box;
+}
 
 /* create your tile classes! we recommend .small .med .large */
