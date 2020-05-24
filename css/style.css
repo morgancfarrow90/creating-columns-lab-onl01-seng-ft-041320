@@ -51,11 +51,10 @@ img:hover {
     float: left;
 }
 .col-1 {
-  float: left;
   width: 33.33%;
 }
 .col-2 {
-  float: left;
+  position: right;
   width: 33.33%;
 }
 .col-3 {
