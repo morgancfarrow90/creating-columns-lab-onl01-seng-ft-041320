@@ -49,6 +49,7 @@ img:hover {
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .col {
     float: left;
+    flex-direction: row;
 }
 .col-1 {
   width: 33.33%;
